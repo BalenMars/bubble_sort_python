@@ -1,0 +1,5 @@
+language: python
+script:
+        - bubble_sort_fast.py
+        - bubble_sort_slow.py
+
