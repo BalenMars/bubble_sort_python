@@ -2,6 +2,6 @@ language: python
 install:
         - pip install -r requirements.txt
 script:
-        - bubble_sort_fast.py
-        - bubble_sort_slow.py
+        - bubble_sort_fast
+        - bubble_sort_slow
 
