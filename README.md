@@ -4,6 +4,8 @@ This is to demonstrate the speed of two different ways for coding a bubble sort 
 
 The code in bubble_sort_slow.py is taken from the wonderful book, Effective Python by Brett Slatkin, and the second bubble_sort_fast.py, I wrote it myself to demonstrate the difference. The algorithm of the latter, basically, does not loop through the entire list again and again, but leave the parts that have already been found. The list, this way, shrinks with each loop making the code fast and faster. 
 
+[![Build Status](https://travis-ci.com/BalenMars/bubble_sort_python.svg?branch=main)](https://travis-ci.com/BalenMars/bubble_sort_python)
+
 Execution time comparison:
 
 bubble_sort_slow.py
