@@ -9,6 +9,7 @@ The code in bubble_sort_slow.py is taken from the wonderful book, Effective Pyth
 Execution time comparison:
 
 > bubble_sort_slow.py
+###### Time of execution:
 ```
 real	0m10,965s
 user	0m10,961s
@@ -16,6 +17,7 @@ sys	0m0,004s
 ```
 
 > bubble_sort_fast.py
+###### Time of execution:
 ```
 real	0m6,785s
 user	0m6,780s
