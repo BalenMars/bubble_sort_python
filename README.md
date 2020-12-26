@@ -15,7 +15,8 @@ real	0m10,965s
 user	0m10,961s
 sys	0m0,004s
 ```
-<br/>
+&nbsp;
+
 > bubble_sort_fast.py
 ###### Time of execution:
 ```
