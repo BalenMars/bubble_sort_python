@@ -6,7 +6,7 @@ The code in bubble_sort_slow.py is taken from the wonderful book, Effective Pyth
 
 [![Build Status](https://travis-ci.com/BalenMars/bubble_sort_python.svg?branch=main)](https://travis-ci.com/BalenMars/bubble_sort_python)
 
-Execution time comparison:
+&nbsp;
 
 > bubble_sort_slow.py
 ###### Time of execution:
